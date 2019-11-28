@@ -20,13 +20,13 @@ Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije
 
 ### Tabele
 
-*TABELA 1: Otroci, vključeni v vrtec, po statistični regiji stalnega prebivališča in spolu, Slovenija, letno
+* TABELA 1: Otroci, vključeni v vrtec, po statistični regiji stalnega prebivališča in spolu, Slovenija, letno
 
-*TABELA 2: Število Vrtcev glede na število otrok, po statistični regiji zavoda, Slovenija, letno
+* TABELA 2: Število Vrtcev glede na število otrok, po statistični regiji zavoda, Slovenija, letno
 
-*TABELA 3: Otroci, vključeni v vrtec, po statistični regiji zavoda, vrsti vrtca (lastnina) in starosti otrok, Slovenija, letno
+* TABELA 3: Otroci, vključeni v vrtec, po statistični regiji zavoda, vrsti vrtca (lastnina) in starosti otrok, Slovenija, letno
 
-*TABELA 4:Število otrok na vrtec in število otrok na vzgojitelja in pomočnika vzgojitelja, statistične regije, Slovenija, letno
+* TABELA 4:Število otrok na vrtec in število otrok na vzgojitelja in pomočnika vzgojitelja, statistične regije, Slovenija, letno
 
 * TABELA 5: Izbrani podatki o otrocih in strokovnih delavcih v vrtcih, Slovenija, letno
 
