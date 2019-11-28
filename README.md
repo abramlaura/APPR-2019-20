@@ -8,14 +8,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 ## Tematika
 
 V projektni nalogi bom analizirala vključenost otrok v predšolskih zavodih v Sloveniji po statističnih regijah.
-
-Sama vključenost otrok v vrtec ni obvezna, zanjo se odločijo starši. Otroci so v vrtce razdeljeni v dve starostni obdobji - v 1. starostno obdobje so vključeni otroci od 1. do 3. leta starosti, v 2. starostno obdobje, pa otroci od 3. do 6. leta starosti.  
-
 Primerjala bom število otrok glede na vrtec in število otrok glede na vzgojitelja in pomočnika vzgojitelja, koliko predšolskih zavodov imamo v Sloveniji glede na število otrok, ter koliko je otrok v vrtcih glede na starost in spol. Pogledala si bom tudi kakšni so javni izdatki za formalno izobraževanje glede na raven izobraževanja in njeni porabi.
 
 Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije, kjer bodo podatki prikazani od šolskega leta 2006/07 do šolskega leta 2018/19.
-
-
 
 
 ### Tabele
