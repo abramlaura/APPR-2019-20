@@ -1,4 +1,4 @@
-# Analiza podatkov s programom R, 2019/20
+# Analiza predšolske vzgoje v Sloveniji
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
@@ -7,8 +7,52 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V projektni nalogi bom analizirala vključenost otrok v predšolskih zavodih v Sloveniji po statističnih regijah.
+
+Sama vključenost otrok v vrtec ni obvezna, zanjo se odločijo starši. Otroci so v vrtce razdeljeni v dve starostni obdobji - v 1.starostno obdobje so vključeni otroci od 1. do 3. leta starosti, v 2. starostno obdobje, pa otroci od 3. do 6. leta starosti.  
+
+Primerjala bom število otrok glede na vrtec in število otrok glede na vzgojitelja in pomočnika vzgojitelja, koliko predšolskih zavodov imamo v Sloveniji glede na število otrok, ter koliko je otrok v vrtcih glede na starost in spol. Pogledala si bom tudi kakšni so javni za formalno izobraževanje glede na raven izobraževanja in njeni porabi.
+
+Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije, kjer bodo podatki prikazani od šolskega leta 2006/07 do šolskega leta 2018/19.
+
+
+
+
+### Tabele
+
+*TABELA 1: Otroci, vključeni v vrtec, po statistični regiji stalnega prebivališča in spolu, Slovenija, letno
+
+*TABELA 2: Število Vrtcev glede na število otrok, po statistični regiji zavoda, Slovenija, letno
+
+*TABELA 3: Otroci, vključeni v vrtec, po statistični regiji zavoda, vrsti vrtca (lastnina) in starosti otrok, Slovenija, letno
+
+*TABELA 4:Število otrok na vrtec in število otrok na vzgojitelja in pomočnika vzgojitelja, statistične regije, Slovenija, letno
+
+* TABELA 5: Izbrani podatki o otrocih in strokovnih delavcih v vrtcih, Slovenija, letno
+
+*TABELA 6: Delež otrok, vključenih v vrtce, po statistični regiji stalnega prebivališča in starostnih obdobjih, Slovenija, letno
+
+* TABELA 7: Javni izdatki za formalno izobraževanje po ravneh izobraževanja in namenu porabe (1000 EUR), Slovenija, letno
+
+### Viri
+
+Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije.
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952532S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952573S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952542S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__03_09714_vrtci_kazalniki/0971417S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/HITRE_Repozitorij/HITRE_Repozitorij/H094S.px/
+
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__03_09714_vrtci_kazalniki/0971413S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__10_drugi_podatki__04_09733_izdatki_izobrazevanje/0973301S.px/
+
 
 ## Program
 
