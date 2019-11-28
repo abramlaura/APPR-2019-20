@@ -30,7 +30,7 @@ Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije
 
 * TABELA 5: Izbrani podatki o otrocih in strokovnih delavcih v vrtcih, Slovenija, letno
 
-*TABELA 6: Delež otrok, vključenih v vrtce, po statistični regiji stalnega prebivališča in starostnih obdobjih, Slovenija, letno
+* TABELA 6: Delež otrok, vključenih v vrtce, po statistični regiji stalnega prebivališča in starostnih obdobjih, Slovenija, letno
 
 * TABELA 7: Javni izdatki za formalno izobraževanje po ravneh izobraževanja in namenu porabe (1000 EUR), Slovenija, letno
 
