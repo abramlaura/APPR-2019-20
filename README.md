@@ -17,9 +17,9 @@ Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije
 
 * TABELA 1: Otroci, vključeni v vrtec, po statistični regiji stalnega prebivališča in spolu, Slovenija, letno
 
-* TABELA 2: Število Vrtcev glede na število otrok, po statistični regiji zavoda, Slovenija, letno
+* TABELA 2: Otroci, vključeni v vrtec, po statistični regiji zavoda, vrsti vrtca (lastnina) in starosti otrok, Slovenija, letno
 
-* TABELA 3: Otroci, vključeni v vrtec, po statistični regiji zavoda, vrsti vrtca (lastnina) in starosti otrok, Slovenija, letno
+* TABELA 3: Število Vrtcev glede na število otrok, po statistični regiji zavoda, Slovenija, letno
 
 * TABELA 4:Število otrok na vrtec in število otrok na vzgojitelja in pomočnika vzgojitelja, statistične regije, Slovenija, letno
 
@@ -35,9 +35,9 @@ Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije
 
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952532S.px/
 
-* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952573S.px/
-
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952542S.px/
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__01_09525_otroci_vrtci/0952573S.px/
 
 * https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__03_09714_vrtci_kazalniki/0971417S.px/
 
