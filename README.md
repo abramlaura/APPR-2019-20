@@ -45,7 +45,6 @@ Podatke bom pridobila na spletni strani Statističnega urada Republike Slovenije
 
 * 5. TABELA: https://pxweb.stat.si/SiStatDb/pxweb/sl/HITRE_Repozitorij/HITRE_Repozitorij/H094S.px/
 
-
 * 6. TABELA: https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__03_predsol_vzgoja__03_09714_vrtci_kazalniki/0971413S.px/
 
 * 7. TABELA: https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__10_drugi_podatki__04_09733_izdatki_izobrazevanje/0973301S.px/
